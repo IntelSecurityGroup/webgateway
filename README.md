@@ -10,7 +10,7 @@
 mwg -ignoressl=true -user=mwguser -pass=mwgpass -host=127.0.0.1
 
 ### Command Options
-    ignoressl: This will turn off SSL verification.  Works well for self signed certificates.
-    user: The User configured on the McAfee Web Gateway
-    pass: The Password configured on the McAfee Web Gateway
-    host: The IP Address of the McAfee Web Gateway
+    *ignoressl:* This will turn off SSL verification.  Works well for self signed certificates.
+    *user:* The User configured on the McAfee Web Gateway
+    *pass:* The Password configured on the McAfee Web Gateway
+    *host:* The IP Address of the McAfee Web Gateway
